@@ -11,8 +11,8 @@ This directory contains
 There are three types of annotations.
 
 * Transcription of read speech: Read speech is transcribed by modifying the prompt to make it match what the person actually said.  This may include inserting, deleting, or changing words.  There is no extra annotation guideline for this task; if an annotator finds it ambiguous, they refer to the spontaneous speech transcription guidelines.
-* Transcription of spontaneous speech is performed according to the [Spontaneous Speech Transcription Guidelines](Spontaneous Speech Transcription Guidelines May2023.pdf)
-* Fifteen utterances per participant are annotated using the [SLP Annotation Descriptors](SLP Annotation Descriptors.docx)
+* Transcription of spontaneous speech is performed according to the [Spontaneous Speech Transcription Guidelines](Spontaneous_Speech_Transcription_Guidelines_May2023.pdf)
+* Fifteen utterances per participant are annotated using the [SLP Annotation Descriptors](SLP_Annotation_Descriptors.docx)
 
 ## Prompts
 
