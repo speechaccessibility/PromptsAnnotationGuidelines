@@ -23,17 +23,17 @@ There are four prompt sets.  These are assigned based on etiology of the disorde
 Participants with PD and ALS read prompts written at approximately a tenth-grade reading level, and focusing on named entities and concepts likely to be familiar to a person over fifty years of age in 2023.  These prompt lists were developed by Heejin Kim and Clarion Mendes in collaboration with consultants from LSVT, Global.  Each participant receives a mixture of prompts from several subcategories:
 
 * [Computer commands in block 1 and block 10](./commands_b1_b10_PD.txt) are read by all participants
-* [Computer commands in blocks 2-9](./commands b2-9_PD.xlsx) are each read by 20% or 10% of participants
+* [Computer commands in blocks 2-9](./commands_b2-9_PD.xlsx) are each read by 20% or 10% of participants
 * [Novel extracts in block 1 and block 10](./novel_b1_b10_PD.xlsx) are read by all participants
 * [Novel extracts in blocks 2-9](./novel-b2-9-150_PD.xlsx) are each read by approximately 0.75% of participants
-* Each participant responds spontaneously to the same set of [spontaneous speech prompts](./Spontaneous speech prompts_PD.xlsx).
+* Each participant responds spontaneously to the same set of [spontaneous speech prompts](./Spontaneous_speech_prompts_PD.xlsx).
 
 ### Down syndrome and cerebral palsy
 
 Participants with DS read prompts written at approximately a fifth-grade reading level, and focusing on named entities and concepts likely to be familiar to a person under fifty years of age in 2023.  These prompt lists were developed by Heejin Kim, Clarion Mendes, Laura Mattie, and Marie Moore-Channell.  Participants with CP may also read these prompts if they so choose.    Each participant receives a mixture of prompts from several subcategories:
 
 * [Computer commands in block 1 and block 10](./commands_b1_b10_DS_35perBlock.xlsx) are read by all participants
-* [Computer commands in blocks 2-9](./commands_b2-9_DS _35perBlock.xlsx) are each read by either 20% or 10% of participants
+* [Computer commands in blocks 2-9](./commands_b2-9_DS_35perBlock.xlsx) are each read by either 20% or 10% of participants
 * Each participant responds spontaneously to the same sets of spontaneous speech prompts in [block 1 and block 10](./Spon_Speech_Prompts_b1_b10_DS_8perBlock.xlsx) and in [blocks 2-9](./Spon_Speech_Prompts_b2-9_DS_8perBlock.xlsx).
 
 ### Nonverbal cerebral palsy
@@ -49,5 +49,5 @@ Some participants with CP have difficulty producing speech that is intelligible 
 Participants with Stroke read from prompt lists developed by Heejin Kim and Clarion Mendes in collaboration with Lingraphica.
 
 * [Computer commands in block 1 and block 10](./commands_b1_b10_Stroke_35perBlock.xlsx) are read by all participants.
-* [Computer commands in blocks 2-9](./commands_b2-9_Stroke _35perBlock.xlsx) are each read by 20% or 10% of participants.
+* [Computer commands in blocks 2-9](./commands_b2-9_Stroke_35perBlock.xlsx) are each read by 20% or 10% of participants.
 * Each participant responds spontaneously to the same sets of spontaneous speech prompts in [block 1 and block 10](./Spon_Speech_Prompts_b1_b10_Stroke_8perBlock.xlsx) and in [blocks 2-9](./Spon_Speech_Prompts_b2-9_Stroke_8perBlock.xlsx).
