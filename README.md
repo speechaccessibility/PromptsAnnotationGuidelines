@@ -11,7 +11,7 @@ This directory contains
 There are three types of annotations.
 
 * Transcription of read speech: Read speech is transcribed by modifying the prompt to make it match what the person actually said.  This may include inserting, deleting, or changing words.  There is no extra annotation guideline for this task; if an annotator finds it ambiguous, they refer to the spontaneous speech transcription guidelines.
-* Transcription of spontaneous speech is performed according to the [Spontaneous Speech Transcription Guidelines](https://github.com/speechaccessibility/PromptsAnnotationGuidelines/blob/main/Spontaneous%20Speech%20Transcription%20Guidelines%20August2024.pdf) for Phase 2 and [Speech Trasncription Guidelines3](https://github.com/speechaccessibility/PromptsAnnotationGuidelines/blob/main/Speech_Transcription_Guidelines_Phase3.pdf) for Phase 3.
+* Transcription of spontaneous speech is performed according to the [Spontaneous Speech Transcription Guidelines](https://github.com/speechaccessibility/PromptsAnnotationGuidelines/blob/main/Spontaneous%20Speech%20Transcription%20Guidelines%20August2024.pdf) for Phase 2 and [Speech Transcription Guidelines3](https://github.com/speechaccessibility/PromptsAnnotationGuidelines/blob/main/Speech_Transcription_Guidelines_Phase3.pdf) for Phase 3.
 * Fifteen utterances per participant are annotated using the [SLP Annotation Descriptors](SLP_Annotation_Descriptors.docx)
 
 ## Prompts
